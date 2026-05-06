@@ -1,5 +1,5 @@
 # Rams Media Club's Official Website
-
+The current maintainer is @jefferman64
 ## Development Tools
 
 note: npm should come automatically installed with node  
