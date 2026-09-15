@@ -12,7 +12,7 @@ export const cardData : CardProps[] = [
     {
         title: "Our Plans",
         image: goals,
-        body: "Our club focuses on building a community of creators in VFX, photography, and videography, competing in film competitions, and making videos for the school.",
+        body: "Our club focuses on building a community of skilled photographers, videographers, and graphic designers, all while participating in competitions and completing commissions for the school.",
     },
     {
         title: "Daily Announcements",
