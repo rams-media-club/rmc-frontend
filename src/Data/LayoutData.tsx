@@ -15,18 +15,18 @@ export const links: NavbarLink[] = [
         title: "Resources",
         link: "/resources"
     },
-    {
-        title: "Extracurriculars",
-        link: "/extracurriculars"
-    },
+//    {
+//        title: "Extracurriculars",
+//       link: "/extracurriculars"
+//   },
     {
         title: "Announcements",
         link: "/announcements"
     },
-    {
-        title: "Showreel",
-        link: "/showreel"
-    },
+//    {
+//        title: "Showreel",
+//        link: "/showreel"
+//    },
     // {
     //     title: "Pitch Proposal Form",
     //     link: "/form"
