@@ -9,6 +9,7 @@ import { Analytics } from '@vercel/analytics/react'
 // import Showreel from "./Pages/Showreel"
 // import SmoothScroll from "./Components/SmoothScroll"
 // import Form from "./Pages/Form"
+import PitchProposal from "./Pages/PitchProposal"
 
 export default function App() {
   return (
@@ -26,9 +27,10 @@ export default function App() {
           {/* showreel; temporarily hidden for updating
             <Route path="/showreel" element={<Showreel />} />
             */}
-          {/* pitch proposal form; indefinitely disabled
+          {/* old in-house pitch proposal form; indefinitely disabled, replaced by Google Form
           <Route path="/form" element={<Form />} /> 
           */}
+          <Route path="/form" element={<PitchProposal />} />
           <Route path="/contact" element={<Contact />} />
         </Routes>
       </Layout>
